@@ -1,0 +1,12 @@
+[submodule "main-host"]
+	path = main-host
+	url = https://github.com/ShivarajkumarP/main-host.git
+[submodule "contact-form"]
+	path = contact-form
+	url = https://github.com/ShivarajkumarP/contact-form.git
+[submodule "todo-app"]
+	path = todo-app
+	url = https://github.com/ShivarajkumarP/todo-app.git
+[submodule "card-details"]
+	path = card-details
+	url = https://github.com/ShivarajkumarP/card-details.git
